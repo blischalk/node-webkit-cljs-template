@@ -1,4 +1,4 @@
-(defproject node-webkit-cljs/lein-template "0.1.0-SNAPSHOT"
+(defproject org.clojars.blischalk.node-webkit-cljs/lein-template "0.1.0-SNAPSHOT"
   :description "Lein template for generating node webkit cljs apps"
   :url "https://github.com/blischalk/node-webkit-cljs-template"
   :license {:name "Eclipse Public License"
