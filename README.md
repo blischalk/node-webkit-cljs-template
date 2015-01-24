@@ -6,6 +6,19 @@ A Leiningen template for bootstrapping a Node Webkit Clojurescript app.
 
 lein new node-webkit-cljs <your project name>
 
+
+For information about building your application for different OS's see:
+
+https://github.com/wilkerlucio/lein-node-webkit-build
+
+
+For information about the Enfocus, pre-required DOM manipulation and
+templating library see:
+
+https://github.com/ckirkendall/enfocus
+
+
+
 ## License
 
 Copyright © 2015 Brett Lischalk
