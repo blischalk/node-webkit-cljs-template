@@ -1,4 +1,8 @@
-(ns {{namespace}})
+(ns {{namespace}}
+  (:require [weasel.repl :as repl]))
+
+(when-not (repl/alive?)
+  (repl/connect "ws://localhost:9001"))
 
 (defn init []
   (.alert js/window "Your app is working"))

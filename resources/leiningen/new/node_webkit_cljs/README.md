@@ -1,3 +1,3 @@
-# {{str-name}}
+# {{name}}
 
 Add your info about your application here.
